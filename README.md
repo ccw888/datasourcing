@@ -1,4 +1,4 @@
-# Sentiment Analysis of OLIST Customer Reviews
+# Data Sourcing
 
 ## Project Overview
 This project aims to source data from the web via API calls and web scraping.
